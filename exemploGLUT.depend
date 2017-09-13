@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1409533280 source:f:\pratica\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<cmath>
+
+1307916834 f:\pratica\include\gl\glut.h
+	"freeglut.h"
+
+1307916834 f:\pratica\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1307916834 f:\pratica\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1307916834 f:\pratica\include\gl\freeglut_ext.h
+
+1497987707 source:c:\users\bruno\dropbox\eng. computação\17.1\computação gráfica\prática 03\aula 3-win\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1307913234 c:\users\bruno\dropbox\eng. computação\17.1\computação gráfica\prática 03\aula 3-win\include\gl\glut.h
+	"freeglut.h"
+
+1307913234 c:\users\bruno\dropbox\eng. computação\17.1\computação gráfica\prática 03\aula 3-win\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1307913234 c:\users\bruno\dropbox\eng. computação\17.1\computação gráfica\prática 03\aula 3-win\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1307913234 c:\users\bruno\dropbox\eng. computação\17.1\computação gráfica\prática 03\aula 3-win\include\gl\freeglut_ext.h
+
